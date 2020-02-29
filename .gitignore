@@ -1,0 +1,9 @@
+sp500_taq/
+fomc_meetings.xlsx
+beta.csv
+mdf.csv
+output.txt
+permnos.txt
+test.txt
+.DS_Store
+.ipynb_checkpoints/
