@@ -1,4 +1,4 @@
-# Work done with Professor Toomas Laarits for NYU SPUR
+# NYU SPUR
 
 #### Research Title: Market Interpretation of Fed Policy Statements
 #### Topic: Finance
