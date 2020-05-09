@@ -1,7 +1,7 @@
 # Work done with Professor Toomas Laarits for NYU SPUR
 
-## Research Title: Market Interpretation of Fed Policy Statements
-## Topic: Finance
+#### Research Title: Market Interpretation of Fed Policy Statements
+#### Topic: Finance
 
 The raw data is not included in this repo, due to the lack of storage.
 
